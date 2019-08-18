@@ -1,0 +1,3 @@
+﻿  Test.cpp
+C:\Users\VSAS\source\repos\WhereMyFile\WhereMyFile\Fuction.h(245,20): warning C4018:  “<”: 有符号/无符号不匹配
+  WhereMyFile.vcxproj -> C:\Users\VSAS\source\repos\WhereMyFile\Debug\WhereMyFile.exe
